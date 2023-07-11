@@ -1,4 +1,4 @@
-# [Изучение закономерностей, определяющих успешность игр](https://github.com/Kibmor/Ramil_Yarullin_data_analyst/blob/main/05.%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%961/05%20-%20Sbornyj%20proekt%20%E2%84%961.ipynb)
+# [Анализ рынка компьютерных игр](https://github.com/Kibmor/Ramil_Yarullin_data_analyst/blob/main/05.%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%961/05%20-%20Sbornyj%20proekt%20%E2%84%961.ipynb)
 
 ## Цели: 
 выявить закономерности, определяющие успешность игры.
